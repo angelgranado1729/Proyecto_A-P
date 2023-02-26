@@ -136,6 +136,6 @@ Antes de realizar el código, es imperante que realicen un diagrama de clases y 
 
 - Se evaluará que el código este comentado (docstring)
 - Se evaluará que el sistema contenga validaciones
-- Se deberán guardar datos en un archivo TXT para preservar los datos
-- 
+- Se deberán guardar datos en un archivo TXT para preservar los datos.
+
 El proyecto deberá ser entregado en Github Classroom a más tardar el 28 de noviembre de 2022 a las 11:59PM
